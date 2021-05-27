@@ -1,0 +1,6 @@
+Tensorflow-gpu==2.4.0
+pillow
+h5py
+imutils
+matplotlib
+opencv_python

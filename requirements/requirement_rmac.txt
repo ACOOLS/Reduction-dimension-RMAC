@@ -1,0 +1,5 @@
+keras==2.2.4
+theano==1.0.4
+pillow
+h5py
+imutils
